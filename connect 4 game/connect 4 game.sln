@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "connect 4 game", "connect 4 game\connect 4 game.vcxproj", "{B748BA9D-AA62-48D9-99F4-3DF62A3BAA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B748BA9D-AA62-48D9-99F4-3DF62A3BAA15}.Debug|x64.ActiveCfg = Debug|x64
+		{B748BA9D-AA62-48D9-99F4-3DF62A3BAA15}.Debug|x64.Build.0 = Debug|x64
+		{B748BA9D-AA62-48D9-99F4-3DF62A3BAA15}.Debug|x86.ActiveCfg = Debug|Win32
+		{B748BA9D-AA62-48D9-99F4-3DF62A3BAA15}.Debug|x86.Build.0 = Debug|Win32
+		{B748BA9D-AA62-48D9-99F4-3DF62A3BAA15}.Release|x64.ActiveCfg = Release|x64
+		{B748BA9D-AA62-48D9-99F4-3DF62A3BAA15}.Release|x64.Build.0 = Release|x64
+		{B748BA9D-AA62-48D9-99F4-3DF62A3BAA15}.Release|x86.ActiveCfg = Release|Win32
+		{B748BA9D-AA62-48D9-99F4-3DF62A3BAA15}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9E278C-5F9A-4D2A-A3F1-50B2FE21AF8A}
+	EndGlobalSection
+EndGlobal
